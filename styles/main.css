@@ -1,0 +1,9 @@
+#book-results .card {
+  width: 8rem;
+}
+
+img {
+  max-width: 40%;
+  height: auto;
+}
+
